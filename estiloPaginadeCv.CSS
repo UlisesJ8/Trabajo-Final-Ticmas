@@ -1,0 +1,30 @@
+body{
+    background-image:url(img/PuertoDeseado.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+   
+}
+
+h1{
+    color: black;
+    font-style: italic;
+    font-size: 200px;
+    text-align: center
+}
+
+#boton1{
+    color: #000;
+    font-size: 50px;
+    text-align: left;
+    width: 33.33%;
+}
+
+.btn-1{
+    background-color: coral;
+    align-items: center;
+    margin-left: 50%;
+    width: 300px;
+    transform: translateX(-50%);
+}
+

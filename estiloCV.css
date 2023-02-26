@@ -1,0 +1,92 @@
+*{
+    box-sizing: border-box;
+    font-family: arial;
+}
+
+
+#imagen{
+width: 250px;
+height: 150px;
+float:left;
+padding: 0px;
+border: 1px ;
+border-radius: 50%;
+margin-left: 5%;
+
+}
+
+h1,h2{
+    padding: 0px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    
+}
+
+h3{
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    text-decoration-color: black;
+}
+
+header{
+    height: 150px;
+    width: 100%;
+    float:left;
+    padding: 0px;
+    background-color: blue;
+    border: 1px solid black;
+}
+
+
+
+aside{
+    border: 1px solid black;
+    background-color: rgb(165, 165, 165);
+    float: left;
+    width: 25%;
+    height: 900px;
+    padding: 0px;
+}
+
+p,h3,li,i{
+    margin-left: 10px;
+
+}
+
+section{
+    border: 1px solid black;
+    float: right;
+    width:75%;
+    height: 900px;
+    padding:0px
+
+}
+
+.experiencia{
+
+float: left;
+display: flex;
+}
+
+.pf-1{
+    margin-left: 15%;
+
+}
+
+.academico{
+    float: left;
+    display: flex;
+}
+
+.pf-2{
+    margin-left: 15%;
+
+}
+
+#boton2, #boton3{
+    float: right;
+    height: 40px;
+   color: black;
+   text-decoration: white;
+    
+}
